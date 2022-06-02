@@ -25,7 +25,7 @@ https://budget-planner-react.netlify.app/
 
 -HTML5
 -CSS3
--JavaScript
+-JavaScript - E6
 -React.js
 -shortid
 -Netlify
